@@ -131,7 +131,7 @@ header p:first-of-type {
     flex-basis: auto;
     margin: .25em 0;
     padding: 0 1em;
-    text-align: left;
+    text-align: center;
     border-right: 1px solid #ffe4e1;
     font-size: .9em;
 }
